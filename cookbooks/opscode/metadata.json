@@ -1,0 +1,30 @@
+{
+  "recommendations": {
+  },
+  "attributes": {
+  },
+  "maintainer_email": "YOUR_EMAIL",
+  "providing": {
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "groupings": {
+  },
+  "dependencies": {
+  },
+  "replacing": {
+  },
+  "conflicting": {
+  },
+  "recipes": {
+    "opscode::default": "Prints hello world output"
+  },
+  "platforms": {
+  },
+  "suggestions": {
+  },
+  "license": "All rights reserved",
+  "version": "0.0.1",
+  "description": "Installs/Configures opscode",
+  "name": "opscode"
+}
